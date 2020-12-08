@@ -1,0 +1,7 @@
+{
+  "name": "keep-up-api",
+  "version": "1.0.0",
+  "description": "Keep up fitness app",
+  "main": "index.js",
+  "license": "MIT"
+}
